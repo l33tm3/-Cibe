@@ -1,4 +1,4 @@
 # -Cibe
-Deploys de CiberSeguridad con Inteligencia Artificial
+Deploys de Inteligencia Artificial
 
-Conceptos de Inteligencia Artificial para el Desarrollo Seguro
+Conceptos de Inteligencia Artificial para todo ambito
